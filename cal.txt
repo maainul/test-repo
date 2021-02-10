@@ -3,7 +3,10 @@ add()
 
 }
 
-sub()
+sub(){
+	
+	return a - b;
+}
 
 div()
 
